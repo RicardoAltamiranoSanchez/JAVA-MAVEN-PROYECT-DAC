@@ -1,0 +1,315 @@
+.texto-blanco {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.texto-Alegreya {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #000000;
+	font-size: 14px;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.texto-Alegreya18 {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #000000;
+	font-size: 18px;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.texto-AlegreyaAzul18 {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	color: #005a9b;
+	font-size: 18px;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.texto {
+	font-family: 'Hind', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.texto-Azul {
+	font-family: 'Hind', sans-serif;
+	color: #005a9b;
+	font-size: 14px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.texto-Rojo {
+	font-family: 'Hind', sans-serif;
+	color: #D51B26;
+	font-size: 14px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.texto-BlancoNegritas {
+	font-family: 'Hind', sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.texto-RojoNegritas {
+	font-family: 'Hind', sans-serif;
+	color: #D51B26;
+	font-size: 14px;
+	font-weight: 700;
+	text-decoration: none;
+}
+
+.texto-Naranja24 {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.texto-Rojo24 {
+	font-family: 'Hind', sans-serif;
+	color: #D51B26;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.texto-Naranja14 {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.texto-Azul18 {
+	font-family: 'Hind', sans-serif;
+	color: #00A2E1;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.texto-hindBoldBlanco {
+	font-family: 'Hind', sans-serif;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.texto-hindBlanco {
+	font-family: 'Hind', sans-serif;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.texto-hindSecundario {
+	font-family: 'Hind', sans-serif;
+	color: #6991C9;
+	font-size: 14px;
+	font-weight: 400;
+	text-decoration: none;
+}
+
+.titulo-cargosales {
+	font-family: 'Hind', sans-serif;
+	color: #00599A;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-cargosales-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #00599A;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.texto-contacto {
+	font-family: 'Hind', sans-serif;
+	color: #263C43;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-domestic {
+	font-family: 'Hind', sans-serif;
+	color: #00983D;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-domestic-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #00983D;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-warehouse {
+	font-family: 'Hind', sans-serif;
+	color: #263C4E;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-warehouse-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #263C4E;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-warehouse-grande {
+	font-family: 'Hind', sans-serif;
+	color: #263C4E;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.titulo-aerocarga {
+	font-family: 'Hind', sans-serif;
+	color: #D51B26;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-aerocarga-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #D51B26;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-deliveryexpress {
+	font-family: 'Hind', sans-serif;
+	color: #E4481C;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-deliveryexpress-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #E4481C;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-distribution {
+	font-family: 'Hind', sans-serif;
+	color: #263C4E;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-distribution-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #263C4E;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-distribution-grande {
+	font-family: 'Hind', sans-serif;
+	color: #263C4E;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.titulo-training {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-training-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-cloudcargo {
+	font-family: 'Hind', sans-serif;
+	color: #00A2E1;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.titulo-cloudcargo-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #00A2E1;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.titulo-cloudcargo-grande {
+	font-family: 'Hind', sans-serif;
+	color: #00A2E1;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.texto-comercial {
+	font-family: 'Hind', sans-serif;
+	color: #263C43;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.texto-comercial-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.texto-almacen {
+	font-family: 'Hind', sans-serif;
+	color: #263C43;
+	font-size: 14px;
+	font-weight: 400;
+}
+
+.texto-almacen-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+.titulo-aviso-negritas {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.titulo-aviso {
+	font-family: 'Hind', sans-serif;
+	color: #F18625;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.texto-aviso {
+	font-family: 'Hind', sans-serif;
+	color:#263C43;
+	font-size:14px;
+	font-weight: 400;
+}
+
+.texto-aviso-negritas {
+	font-family: 'Hind', sans-serif;
+	color:#263C43;
+	font-size:14px;
+	font-weight: 700;
+}
+

@@ -1,0 +1,47 @@
+<Context docBase="MCSNetJDacIntra" path="" reloadable="true">
+<Resource name="jdbc/Intranet"
+	 factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+	 auth="Container"
+     type="javax.sql.DataSource"
+     testWhileIdle="true"
+     testOnBorrow="true"
+     testOnReturn="false"
+     validationQuery="SELECT 1"
+     validationInterval="30000"
+     timeBetweenEvictionRunsMillis="30000" 
+     maxActive="100"
+     minIdle="10"
+     maxWait="10000"
+     initialSize="10"
+     removeAbandonedTimeout="60"
+     removeAbandoned="true"
+     logAbandoned="false"
+     minEvictableIdleTimeMillis="30000"
+     jmxEnabled="true"
+     jdbcInterceptors="org.apache.tomcat.jdbc.pool.interceptor.ConnectionState; org.apache.tomcat.jdbc.pool.interceptor.StatementFinalizer"
+     driverClassName="com.mysql.jdbc.Driver"
+	 username="root"
+	 password="root"
+	 url="jdbc:mysql:3306//localhost/cloud_intranetmex;"/>
+</Context>
+
+<!-- 
+	factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+	username="intranetMCS"
+	password="fnrfj43.23"
+	url="jdbc:mysql://10.1.1.10/CloudCargo"/> 
+-->
+
+<!-- 
+	driverClassName="com.mysql.jdbc.Driver"
+	username="roberto"
+	password=""
+	url="jdbc:mysql://127.0.0.1/Cloud_Intranet"
+-->
+
+<!-- 
+	driverClassName="com.mysql.cj.jdbc.Driver"
+	username="roberto"
+	password=""
+	url="jdbc:mysql://127.0.0.1/Cloud_Intranet?serverTimezone=UTC"
+-->
